@@ -6,7 +6,7 @@
 ![language-JavaScript-red](https://user-images.githubusercontent.com/114938572/197097616-2d20f63e-a24d-4a00-a29e-a787bb3b8116.svg)
 
 <h4 align="center"> 
-	Link: https://jodjow.github.io/mini-portfolio/
+	Link:
 </h4>
 
 
